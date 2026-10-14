@@ -1,0 +1,12 @@
+# Secrets: Slack and Replicate tokens
+.env
+# Personal training photos and generated images of the user
+photos/
+outputs/
+*.zip
+# Local environment and runtime files
+.venv/
+__pycache__/
+*.pyc
+bot.log
+.DS_Store
